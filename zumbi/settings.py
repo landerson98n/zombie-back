@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-sy9(*9t@0%ns@)xq0=8dogk=v443xese#7#41%v8(r41hn6xva
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['zombie-back-production.up.railway.app']
 
 
 # Application definition
