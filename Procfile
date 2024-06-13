@@ -1,1 +1,1 @@
-web: python3 zumbi.wsgi.py
+web: gunicorn zumbi.wsgi.py
