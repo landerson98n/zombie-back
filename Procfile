@@ -1,1 +1,1 @@
-web: gunicorn zumbi.wsgi.py
+web: python3 manage.py runserver
