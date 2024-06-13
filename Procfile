@@ -1,1 +1,1 @@
-web: python manage.py migrate && gunicorn zumb.wsgi
+web: python manage.py migrate 
